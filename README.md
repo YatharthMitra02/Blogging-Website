@@ -19,7 +19,10 @@ A sleek and modern blogging platform built with **React**, **Vite**, and **Tailw
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- Optional: React Router, Zustand/Redux (if you’re using them)
+- React Router
+- Tinymce-react
+- Html-React-Pharser
+- React-Hook-Form
 
 ---
 
